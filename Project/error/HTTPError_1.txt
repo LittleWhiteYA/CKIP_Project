@@ -1,0 +1,186 @@
+http://www.mobile01.com/http://www.shopping01.com/topicdetail.php?f=383&t=1795333&m=f&r=3&p=5#22942308
+404
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<script type="text/javascript">
+<!--
+if (window.location.protocol == "https:") {
+	document.location.href = document.location.href.replace('https:', 'http:');
+}
+//-->
+</script>
+<meta charset="UTF-8" />
+<meta name="description" content="「全球華人最注目的社群網站是哪個？」這問題的答案非常簡單，就是Mobile01！" />
+<meta name="keywords" content="行動電話,智慧型手機,GPS,數位相機,筆記型電腦,個人電腦,蘋果電腦,電視,音響,汽車,機車,單車,電腦遊戲,居家,女性,時尚,運動,生活,旅遊美食" />
+<meta property="og:title" content="錯誤 - Mobile01" />
+<meta property="og:description" content="「全球華人最注目的社群網站是哪個？」這問題的答案非常簡單，就是Mobile01！" />
+<meta property="og:image" content="http://download.mobile01.com/mobile01_fb.jpg" />
+<meta property="fb:admins" content="100000081762620" />
+<meta property="fb:app_id" content="1548610928687358" />
+<title>錯誤 - Mobile01</title>
+<link rel="stylesheet" type="text/css" href="http://attach2.mobile01.com/css/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://attach2.mobile01.com/css/style-fs.css" media="screen" />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://attach2.mobile01.com/css/ie.css" media="screen" />
+<![endif]-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/jquery.browser.min.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/hoverIntent.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/superfish.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/menu.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/ga.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/swfobject.js"></script>
+<script type="text/javascript" src="http://attach2.mobile01.com/js/jquery.cookie.min.js"></script>
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"9hjXg1asOv000z", domain:"mobile01.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9hjXg1asOv000z" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+</head>
+<body>
+
+<div class="inner">
+  <p id="top"><a href="#content">前往內容</a></p>
+  <div id="header">
+  <div class="inner">
+    <h1 id="logo"><a href="index.php">Mobile01</a><div id="ad_59492" style="position:relative;top:-58px;left:240px;margin-bottom:-62px;z-index:1;text-indent:0em;">
+							<a title="廣告" href="adredir.php?id=59492" target="_blank" style="text-indent:0;background:none;"><img src="http://attach2.mobile01.com/image/mod_ad/mobile01-02129513e09a702f899c120d9d62bfc9.gif" border="0" width="350" height="60" alt="廣告" /></a></div></h1>
+    <form action="http://www.mobile01.com/googlesearch.php" id="search" target="_blank">
+      <h2 class="hidden-head">
+        <label for="google-search">Google站內搜尋</label>
+      </h2>
+      <p>
+        <input name="q" type="search" size="16" id="google-search" onkeydown="if(event.keyCode==13){this.form.submit();}" />
+      </p>
+      <p><a href="#" onclick="s='search.php';k=encodeURIComponent(document.getElementById('google-search').value);s=(k)?s+'?keyword='+k:s;window.open(s);" class="adv-search">進階搜尋</a></p>
+    </form>
+    <script type="text/javascript" src="http://www.google.com/cse/brand?form=search&amp;lang=zh-Hant"></script>
+  </div>
+  <div id="top-tab">
+    <div class="inner">
+      <h2 class="hidden-head">會員資訊</h2>
+      <ul id="member-tools">  
+  
+  <li class="hi"><a href="membercompare.php"><span>.</span>Hi, 歡迎來到 Mobile01</a></li>
+  <li class="register"><a href="member.php">註冊<span>.</span></a></li>
+  <li class="login"><a href="login.php?link=%2Fhttp%3A%2F%2Fwww.shopping01.com%2Ftopicdetail.php%3Ff%3D383%26t%3D1795333%26m%3Df%26r%3D3%26p%3D5">登入<span>.</span></a></li>
+  
+</ul>
+
+      <h2 class="hidden-head">Mobile01服務</h2>
+      <ul id="m01group">
+        <li class="now"><a href="index.php">討論群組</a></li>
+        <li><a href="waypoint.php">景點</a></li>
+        <li><a href="mpindex.php">市集</a></li>
+        <li><a href="gallery.php">貼圖</a></li>
+        <li><a href="apps.php">手機軟體</a></li>
+        <li><a href="topicdetail.php?f=601&t=4625803"><font color="#990000">新功能! 開啟兩步驗證增加帳號安全</font></a></li>
+        
+      </ul>
+    </div>
+  </div>
+  <div class="inner">
+    <div id="top-menu">
+      <div class="inner">
+        <h2 class="hidden-head">討論群組服務</h2>
+        <nav>
+<ul class="sf-menu">
+  <li><a href="#" class="m01">功能<span>.</span></a>
+    <ul>
+      <li><a href="forum.php">討論區</a></li>
+      <li><a href="search.php">搜尋</a></li>
+      <li><a href="calendar.php">行事曆</a></li>
+      <li><a href="newsarchive.php">本站新聞</a></li>
+      <li><a href="articles.php">精選文章</a></li>
+      <li><a href="hottopics.php">熱門文章</a></li>
+      <li><a href="newtopics.php">新進文章</a></li>
+      <li><a href="digestforum.php">精華區</a></li>
+    </ul>
+  </li>
+  <li><a href="category.php?id=4">手機<span>.</span></a></li>
+  <li><a href="category.php?id=16">GPS<span>.</span></a></li>
+  <li><a href="category.php?id=5">相機<span>.</span></a></li>
+  <li><a href="category.php?id=2">筆電<span>.</span></a></li>
+  <li><a href="category.php?id=3">電腦<span>.</span></a></li>
+  <li><a href="category.php?id=15">蘋果<span>.</span></a></li>
+  <li><a href="category.php?id=12">影音<span>.</span></a></li>
+  <li><a href="category.php?id=6">汽車<span>.</span></a></li>
+  <li><a href="category.php?id=13">機車<span>.</span></a></li>
+  <li><a href="category.php?id=8">單車<span>.</span></a></li>
+  <li><a href="category.php?id=7">遊戲<span>.</span></a></li>
+  <li><a href="category.php?id=10">居家<span>.</span></a></li>
+  <li><a href="category.php?id=11">女性<span>.</span></a></li>
+  <li><a href="category.php?id=17">時尚<span>.</span></a></li>
+  <li><a href="category.php?id=18">運動<span>.</span></a></li>
+  <li><a href="category.php?id=9">生活<span>.</span></a></li>
+  <li><a href="waypoint.php">旅遊美食<span>.</span></a></li>
+  <li><a href="adredir.php?id=59161" class="adtext"><span>.</span>1元搶購</a></li>
+  
+  <li><a href="adredir.php?id=15818" class="adtext">行動加值<span>.</span></a></li>
+  
+</ul>
+</nav> <br class="clear" />
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="content" class="group">
+    <div id="news" class="group"> <div class="text-ad"><h2 class="hidden-head">廣告</h2><ul><li><a href="adredir.php?id=59235" title="廣告" target="_blank">實現自動駕駛的安全新科技</a></li><li><a href="adredir.php?id=59321" title="廣告" target="_blank">參加LG體驗會好禮等你拿</a></li><li><a href="adredir.php?id=58926" title="廣告" target="_blank">看#我的!絕殺掀背鋼砲亮相</a></li><li><a href="adredir.php?id=58615" title="廣告" target="_blank">Windows10古機鑑定師</a></li></ul></div> </div>
+    <div id="section" class="group">
+      <div class="navbar">
+        <p class="nav"><a href="index.php">Mobile01 首頁</a> &raquo; 錯誤</p>
+      </div>
+      <div class="navad"><div class="ad-a"><div id="ad_58614"><a href="adredir.php?id=58614" target="_blank"><img src="http://attach2.mobile01.com/image/mod_ad/mobile01-10d9a479a87c47637fcfa7f058a70bcd.jpg" border="0" width="300" height="100" alt="廣告" /></a></div></div></div>
+      <div class="main"> <form name="err_form" id="err_form" method="post" action="error.php"><h2>錯誤</h2>
+<p class="readme"><img src="http://attach2.mobile01.com/images/smile/6.gif" class="post-smile" />發生錯誤了...</p>
+
+<div>
+  <label class="title">說明:</label>
+  <span class="item-text">您嘗試開啟的網頁並不存在。</span> </div>
+
+<div class="btns"> <button type="button" name="return" id="return"  onClick="history.back();">返回</button> </div>
+</form> </div>
+      <div class="sidebar">
+        <div class="inner"> <div class="widget panel-group">
+  
+  <div class="panel note ">
+    <h2>有使用上的問題嗎?</h2>
+    <p>如果錯誤持續發生, 歡迎與<a href="contactus.php">本站管理人員聯絡</a>。</p> </div>
+  
+</div>
+ <br class="clear" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+<div id="footer">
+  <h2 class="hidden-head">其他連結</h2>
+  <ul>
+    <li><a href="rss.php">RSS</a></li>
+    <li><a href="join.php">加入VIP會員</a></li>
+    <li><a href="forumtopic.php?c=9">站務回報</a></li>
+    <li><a href="downloads.php">檔案下載</a></li>
+    <li><a href="faq.php">常問問題集</a></li>
+    <li><a href="tos.php">服務條款</a></li>
+    <li><a href="privacy.php">隱私權政策</a></li>
+    <li><a href="proposal.php">合作與廣告</a></li>
+    <li><a href="contactus.php">聯絡我們</a></li>
+    <li><a href="jobs.php">工作機會</a></li>
+    <li><a href="memberlist.php">線上會員</a></li>
+    <li><a href="specialevent.php">活動與報導</a></li>
+    <li><a style="cursor:pointer;" onclick="if(typeof jQuery=='undefined'){scroll(0,0);}else{$('html,body').animate({scrollTop:0},'fast');}">回到頁首</a></li>
+  </ul>
+  <div id="rights">
+    <p>Copyright &copy; 2014 Yong Sheng Technology Co., Ltd. All rights reserved.</p>
+  </div>
+</div>
+</footer> </div>
+</body>
+</html>
+
