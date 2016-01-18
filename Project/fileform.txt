@@ -1,0 +1,19 @@
+[資料以byte儲存]
+
+0)source + attribute + title + link + S + A + T + L
+  ---------------長度---------------  -----內容-----
+    8     +    8     +   8   +   8(bytes)
+資料來源    看板名稱   標題     URL
+(網頁/b板)
+
+[本文+推文]
+
+1)id time content + ID + TIME + Content
+  -----長度-------  -------內容-------
+   8   8     8
+2)id time content + ID + TIME + Content
+  -----長度-------  -------內容-------
+   8   8     8
+.
+.
+.

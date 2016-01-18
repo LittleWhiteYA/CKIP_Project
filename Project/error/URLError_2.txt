@@ -1,0 +1,2 @@
+http://www.mobile01.com/topicdetail.php?f=383&t=2128523
+[WinError 10060] 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。

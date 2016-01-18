@@ -1,0 +1,2 @@
+http://www.mobile01.com/topicdetail.php?f=383&t=1306255
+[Errno 11001] getaddrinfo failed
