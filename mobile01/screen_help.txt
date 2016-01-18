@@ -1,0 +1,39 @@
+screen 參數	說明
+!	Ctrl + a 與 c	建立新 screen 視窗
+!	Ctrl + a 與 Ctrl + a	切換至上一個 screen 視窗
+	Ctrl + a 與數字鍵 0 到 9	切換至指定編號的 screen 視窗
+!	Ctrl + a 與 n	切換至下一個的 screen 視窗
+!	Ctrl + a 與 p	切換至上一個的 screen 視窗
+!	Ctrl + a 與 w	列出目前所有的 screen 視窗
+!	Ctrl + a 與 "	列出目前所有的 screen 視窗，並可用上下鍵選擇要切換的設窗
+!	Ctrl + a 與 k	關閉目前的 screen 視窗
+	Ctrl + a 與 d	卸離 screen 工作環境
+	Ctrl + a 與 Esc 鍵（或 Ctrl + a 與 [）	進入複製模式（copy mode），可用方向鍵操作捲軸，或用 / 與 ? 來搜尋，按下空白鍵開始選取要複製的內容，選取完成後再按下第二次空白鍵，即可複製，隨後使用 Ctrl + ] 可貼上複製的內容。
+	Ctrl + a 與 S	垂直分割視窗
+!	Ctrl + a 與 |   水平分割視窗
+!	Ctrl + a 與 Q	關閉分割畫面
+!	Ctrl + a 與 Tab 鍵	切換分割畫面
+	Ctrl + a 與 t	顯示目前系統的時間與負載狀況
+!	Ctrl + a 與 a	送出 Ctrl + a
+	Ctrl + a 與 space	同上
+	Ctrl + a 與 ?	顯示說明
+	Ctrl + a 與 v	顯示版本資訊
+	Ctrl + a 與 x	鎖定 screen 螢幕
+	Ctrl + a 與 H	開啟或結束 screen 紀錄功能
+	Ctrl + a 與 C	清除 screen 視窗中的內容
+	Ctrl + a、D 與 D	強力卸離，卸離 screen 工作環境之後，直接登出
+	Ctrl + a 與 Ctrl + g	視覺化鈴聲（visual bell）切換
+	Ctrl + a 與 i	顯示目前 screen 視窗的資訊
+	Ctrl + a 與 l	重繪目前 screen 視窗的內容
+
+!	tty 			了解你目前正在哪個終端機中
+	-c file	使定使用的設定檔（預設為 $HOME/.screenrc）
+	-d 將其它的終端機 Session 強制脫離
+	-d [pid.tty.host]	強制將指定的 screen 工作環境卸離
+	-L	開啟自動紀錄功能
+!	-ls 或 -list	列出目前所有執行中的 screen 工作環境
+!	-r [pid.tty.host]	重新連接執行中的 screen 工作環境
+	-R	重新連接最近卸離的 screen 工作環境
+	-U	以 UTF-8 模式執行
+	-wipe [match]	將廢棄的 screen 工作環境清除
+	kill 可以殺掉 screen

@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<script src="/socket.io/socket.io.js"></script>
+	</head>
+	<body>
+		<script>
+		
+		var socket = io.connect();
+
+		socket.on('message', function(data){
+			console.log(data.message);
+		});
+		
+		socket.on('rate', function(data){
+			console.log(data);
+		});
+		
+
+		</script>
+ 		<div>This is our socket.html file</div>
+		<form action="/socket.html" method="get">
+			輸入：<input type="text" name="search"></br>
+			<input type="submit" value="submit">
+		</form>
+	</body>
+</html>

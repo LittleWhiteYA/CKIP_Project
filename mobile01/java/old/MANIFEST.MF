@@ -1,0 +1,2 @@
+Main-Class: CKIP_handle
+Class-Path: jar/dom4j-1.6.1.jar jar/CKIPClient.jar jar/ckipclient-java-0.4.jar
